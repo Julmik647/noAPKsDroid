@@ -3,6 +3,11 @@
 This list is meant to be used in the worst scenario. It's NOT made to support upcoming Android changes. Visit [Keep Android Open](https://keepandroidopen.org/) for more information. 
 
 ### Table Of Contents
+- [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
+- [Web browsers](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
+- [Browser tools](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#browser-tools)
+- [Video streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
+- [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
 
 ### Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
@@ -22,13 +27,13 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [ZEUS Browser](https://www.zeus-browser.com/) or [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile assistant](https://browser-app.com/) - Android TV web browsers
 
 ### Browser tools
-- [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
+- [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
 - [Stylus](https://add0n.com/stylus.html) – userstyles manager
 
 ### Video streaming
 
 Video streaming apps:
-- 🔁browsers with ad blocker/extensions / tools
+- 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / scroll down for tools
 - GrayJay – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins)
 - Kodi + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
 - [RYTM](https://play.google.com/store/apps/details?id=com.ctrlvnt.rytm), [2](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
@@ -39,14 +44,14 @@ Video streaming apps:
 - [media.ccc.de](https://media.ccc.de/)
 
 Browser tools:
-- [Invidious](https://invidious.io/) – YouTube frontend / SponsorBlock / return dislikes / DeArrow / Redirector, 2
+- [Invidious](https://invidious.io/) – YouTube frontend / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
 - [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / userscript
 - [DeArrow](https://dearrow.ajay.app/) – replace thumbnails and titles on YouTube 
-- Return YouTube dislikes on mobile – bring back dislikes to YouTube website / Invidious
+- [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / Invidious
 
 Utility apps:
-- Ad Skipper (by Mavenka Labs), AdSkipper (by Jaswanth Satya Dev) or Skip Ad – automaticly press skip ad button
-- Return Dislike Button or Show dislike – dislike count viewer
+- [Ad Skipper by Mavenka Labs](https://play.google.com/store/apps/details?id=com.mavenkalabs.adskipper), [AdSkipper by Jaswanth Satya Dev](https://play.google.com/store/apps/details?id=com.evolvarc.adskipper) or [Skip Ad](https://play.google.com/store/apps/details?id=com.candlelight.adskipper) – automaticly press skip ad button
+- [Return Dislike Button](https://play.google.com/store/apps/details?id=maa.returnytdislikebuttton) or [Show dislike](https://play.google.com/store/apps/details?id=com.topdealsindia.showdislike) – dislike count viewer
 - Black screen – play videos with screen turned off
 
 TV tools:
@@ -56,8 +61,8 @@ TV tools:
 - Kodi + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
 
 ### Music
-- 🔁browsers with ad blocker/extensions
-- 🔁 YouTube music / music videos
+- 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
+- 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) – paid music apps
 - [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads / uses Tidal / supports downloading / can be installed as PWA
