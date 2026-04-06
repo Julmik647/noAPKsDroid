@@ -7,19 +7,21 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Web browsers](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - [Video streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
 - [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
+- [Movie/TV Streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movietv-streaming)
 
 ### Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
 - 🌐 [Ad blocking Browser extensions](https://fmhy.net/privacy)
--  „[Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers”
+-  [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 - [Blokada 6](https://play.google.com/store/apps/details?id=org.blokada.sex) (paid)
 - [Adguard Content Blocker](https://github.com/AdguardTeam/ContentBlocker), [AdClear Content Blocker](https://play.google.com/store/apps/details?id=com.seven.adclear.fsb) or [Adblock Fast](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast) – Samsung Internet Ad Blockers
 - [Netguard](https://netguard.me/) - Firewall
+- [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
 
 ### Web browsers
 - [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
 - [Firefox](https://www.firefox.com/download/android/) – customizable browser / supports extensions
- - [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
+- [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
 - [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports Firefox mobile and desktop extensions
 - [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) – Chromium-based / supports extensions / [install more extensions](https://www.reddit.com/r/MicrosoftEdge/comments/1pr8odr/finally_all_extensions_are_officially_available/)
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / has paid features
@@ -41,6 +43,7 @@ Video streaming apps:
 - [PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube) – decentralized video platform / [Kodi](https://github.com/Haui1112/plugin.video.pt)
 
 Browser tools:
+- 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
 - [Invidious](https://invidious.io/) – YouTube frontend / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
 - [UrleBird](https://urlebird.com/) - TikTok viewer
 - [yout-ube.com](https://www.yout-ube.com/) - open YouTube links in youtube-nocookie.com
@@ -66,19 +69,22 @@ Utility apps:
 - 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
-- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
-- [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) – paid music apps
+- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
+- [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
 - [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads / uses Tidal / supports downloading / can be installed as PWA
 - [Lyra](https://lyramusic.app/) – YouTube music / ad free
+- [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / web - [niche music](https://soundcloud.com/)
 - [Mutify](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/teekamsuthar/Mutify) – mute spotify ads
 - [Ad silence](https://github.com/aghontpi/ad-silence) – mute ads in music apps
-  - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
+- [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
 - [Ucmate](https://play.google.com/store/apps/details?id=com.ucmate.app) – NewPipe clone / background playback / no downloading / has many its own features / YouTube / Soundcloud / Bandcamp
 
 ### Movie/TV streaming
-- 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or 🌐 [Agorateka](https://agorateka.eu/) – paid and free streaming websites/apps
-- 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites/apps
-- 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use browser with ad blocker 
-- Stremio - torrent streaming / [guide](https://guides.viren070.me/stremio) / [tools](https://fmhy.net/video#stremio-tools) 
+- 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or 🌐 [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
+- 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites / apps
+- 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
+- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) - torrent streaming / [guide](https://guides.viren070.me/stremio) / [tools](https://fmhy.net/video#stremio-tools) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot)
+- [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
+- [Viki](https://play.google.com/store/apps/details?id=com.viki.android) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) - Asian Drama
 
 
