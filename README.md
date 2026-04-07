@@ -8,6 +8,8 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Video streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
 - [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
 - [Movie/TV Streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movietv-streaming)
+- [Social media tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#social-media-tools)
+- [Special thanks](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#special-thanks)
 
 ### Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
