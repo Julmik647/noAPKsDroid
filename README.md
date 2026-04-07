@@ -35,7 +35,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 Video streaming apps:
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / scroll down for tools
 - GrayJay – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins)
-- Kodi + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
+- [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
 - [RYTM](https://play.google.com/store/apps/details?id=com.ctrlvnt.rytm), [2](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
 - [Play Tube - Block Ads on Video (by revoook.studio)](https://play.google.com/store/apps/details?id=io.adsfree.vanced) - YouTube only / YouTube-like UI / downloading / uses NewPipe video player / has some banner ads, plays ads before downloading
 - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / PeerTube / media.ccc.de 
@@ -44,12 +44,12 @@ Video streaming apps:
 
 Browser tools:
 - 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
-- [Invidious](https://invidious.io/) – YouTube frontend / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
+- [Invidious](https://invidious.io/) – YouTube frontend / [SponsorBlock](https://sponsor.ajay.app/) / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [DeArrow](https://dearrow.ajay.app/) (click Invidious button (second from left) in "3rd Party Ports" section) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
 - [UrleBird](https://urlebird.com/) - TikTok viewer
 - [yout-ube.com](https://www.yout-ube.com/) - open YouTube links in youtube-nocookie.com
 - [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / userscript
 - [DeArrow](https://dearrow.ajay.app/) – replace thumbnails and titles on YouTube 
-- [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / Invidious
+- [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / [Invidious]((https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious))
 - [media.ccc.de](https://media.ccc.de/)
 
 Utility apps:
@@ -62,8 +62,8 @@ Utility apps:
 - 🌐 [cast SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#Chromecast)
 - [iSponsorblockTv](https://github.com/dmunozv04/iSponsorBlockTV) – skip sponsors on connected Tvs
 - [SmartTV Client for Twitch](https://play.google.com/store/apps/details?id=com.fgl27.twitch), [2](https://github.com/fgl27/smarttwitchtv) or [S0undTV](https://play.google.com/store/apps/details?id=com.s0und.s0undtv), [2](https://github.com/S0und/S0undTV) - Twitch clients
-- Kodi + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
-- Kodi + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
+- [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
+- [Kodi](https://kodi.tv/download/android/) + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
 
 ### Music
 - 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
@@ -71,8 +71,9 @@ Utility apps:
 - 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
-- [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads / uses Tidal / supports downloading / can be installed as PWA
 - [Lyra](https://lyramusic.app/) – YouTube music / ad free
+- [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads / uses Tidal / supports downloading / can be installed as PWA
+- GrayJay – no ads / multiple music platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins)
 - [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / web - [niche music](https://soundcloud.com/)
 - [Mutify](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/teekamsuthar/Mutify) – mute spotify ads
 - [Ad silence](https://github.com/aghontpi/ad-silence) – mute ads in music apps
@@ -87,4 +88,19 @@ Utility apps:
 - [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
 - [Viki](https://play.google.com/store/apps/details?id=com.viki.android) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) - Asian Drama
 
+### Social media tools
+- 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
+- [Nora](https://github.com/nonbili/Nora) - multiple social platforms webview wrapper
+- [LibRedirect](https://libredirect.github.io/) or [predirect](https://github.com/pritkr/predirect) - redirect to frontends
+- [RedReader](https://github.com/QuantumBadger/RedReader) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#redreader), [Relay for reddit](https://play.google.com/store/apps/details?id=reddit.news) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%F0%9F%94%84-relay-for-reddit) or [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%E2%99%BE-infinity-for-reddit-or-continuum) - Reddit clients
+- [oldlander](https://github.com/OctoNezd/oldlander) - make [old Reddit](https://old.reddit.com) usable on mobile / [redirect](https://github.com/tom-james-watson/old-reddit-redirect)
+- [Vencord web](https://vencord.dev/) - [Discord web](https://discord.com/app) client mod / warning
+- [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads / use [Stylus](https://add0n.com/stylus.html)
+- [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
+
+### Special thanks 
+- all stuff listed here
+- [FMHY](htttps://fmhy.net) - lot of stuff and editing style
+- random internet users that suggested me some of these tools
+- https://github.com/TeamNewPipe/NewPipe/issues/539 - some YouTube apps (ironic)
 
