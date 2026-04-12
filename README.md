@@ -9,13 +9,16 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
 - [Movie/TV Streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movietv-streaming)
 - [Social media tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#social-media-tools)
+- [Copyright abuse reporting info](
 - [Special thanks](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#special-thanks)
 
 ### Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
 - 🌐 [Ad blocking Browser extensions](https://fmhy.net/privacy)
 -  [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
-- [Blokada 6](https://play.google.com/store/apps/details?id=org.blokada.sex) (paid)
+- [Blokada 6](https://play.google.com/store/apps/details?id=org.blokada.sex) - paid, cloud based ad blocker / with Blokada Plus you also get VPN
+- [Blokada Cloud](https://blokada.org/) / [panel](https://app.blokada.org/) - paid Blokada's DNS ad blocking service
+- [Wireguard](https://play.google.com/store/apps/details?id=com.wireguard.android) + [Blokada Plus](https://blokada.org/) / [panel](https://app.blokada.org/) - VPN and ad blocker
 - [Adguard Content Blocker](https://github.com/AdguardTeam/ContentBlocker), [AdClear Content Blocker](https://play.google.com/store/apps/details?id=com.seven.adclear.fsb) or [Adblock Fast](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast) – Samsung Internet Ad Blockers
 - [Netguard](https://netguard.me/) - Firewall
 - [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
@@ -110,6 +113,9 @@ Utility apps:
 - [Vencord web](https://vencord.dev/) - [Discord web](https://discord.com/app) client mod / warning
 - [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads / use [Stylus](https://add0n.com/stylus.html)
 - [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
+
+### Copyright abuse reporting info
+We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
 
 ### Special thanks 
 - all stuff listed here
