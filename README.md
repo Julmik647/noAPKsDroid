@@ -1,4 +1,4 @@
-<img width="200" height="1440" alt="image" src="https://github.com/user-attachments/assets/633a5858-a051-4b7a-ba19-ba42e790e6c0" /> 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/633a5858-a051-4b7a-ba19-ba42e790e6c0" /> 
 
 This list is meant to be used in the worst scenario. It's NOT made to support upcoming Android changes. Visit [Keep Android Open](https://keepandroidopen.org/) for more information. 
 
