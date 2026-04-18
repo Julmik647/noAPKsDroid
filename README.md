@@ -63,7 +63,7 @@ Browser tools:
 Utility apps:
 - [Ad Skipper by Mavenka Labs](https://play.google.com/store/apps/details?id=com.mavenkalabs.adskipper), [AdSkipper by Jaswanth Satya Dev](https://play.google.com/store/apps/details?id=com.evolvarc.adskipper) or [Skip Ad](https://play.google.com/store/apps/details?id=com.candlelight.adskipper) – automaticly press skip ad button
 - [Black screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) – play videos with screen turned off
-- PocketTube](https://play.google.com/store/apps/details?id=com.youtubesubscriptionmanager) - YouTube subscribtion manager
+- [PocketTube](https://play.google.com/store/apps/details?id=com.youtubesubscriptionmanager) - YouTube subscribtion manager
 - [Return Dislike Button](https://play.google.com/store/apps/details?id=maa.returnytdislikebuttton) or [Show dislike](https://play.google.com/store/apps/details?id=com.topdealsindia.showdislike) – YouTube dislike count viewer
 
  TV tools:
