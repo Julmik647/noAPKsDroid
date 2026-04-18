@@ -9,7 +9,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
 - [Movie/TV Streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movietv-streaming)
 - [Social media tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#social-media-tools)
-- [Copyright abuse reporting info](
+- [Copyright abuse reporting info](https://github.com/Julmik647/noAPKsDroid#copyright-abuse-reporting-info)
 - [Special thanks](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#special-thanks)
 
 ### Ad and tracker blocking
@@ -101,6 +101,7 @@ Utility apps:
 - [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android) / [web](https://app.plex.tv/) - media server client / [server](https://www.plex.tv/media-server-downloads/) / [tools](https://fmhy.net/video-tools#plex-tools)
 - [Emby](https://emby.media/emby-for-android.html) / [TV](https://emby.media/emby-for-android-tv.html) - media server client / [server](https://emby.media/download.html)
 - [Viki](https://play.google.com/store/apps/details?id=com.viki.android) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) - Asian Drama
+- [DOCUMENTARY+](https://play.google.com/store/apps/details?id=com.docplus.android) or [ARTE](https://play.google.com/store/apps/details?id=tv.arte.plus7) - documentaries
 
 ### Social media tools
 - 🌐 [Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools)
