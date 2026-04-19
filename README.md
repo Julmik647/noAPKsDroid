@@ -2,7 +2,7 @@
 
 This list is meant to be used in the worst scenario. It's NOT made to support upcoming Android changes. Visit [Keep Android Open](https://keepandroidopen.org/) for more information. 
 
-### Table Of Contents
+## Table Of Contents
 - [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
 - [Web browsers](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - [Video streaming](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
@@ -12,7 +12,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Copyright abuse reporting info](https://github.com/Julmik647/noAPKsDroid#copyright-abuse-reporting-info)
 - [Special thanks](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#special-thanks)
 
-### Ad and tracker blocking
+## Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
 - 🌐 [Ad blocking Browser extensions](https://fmhy.net/privacy)
 -  [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
@@ -23,7 +23,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Netguard](https://netguard.me/) - Firewall
 - [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
 
-### Web browsers
+## Web browsers
 - [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
 - [Firefox](https://www.firefox.com/download/android/) – customizable browser / supports extensions
 - [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
@@ -37,9 +37,9 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Stylus](https://add0n.com/stylus.html) – userstyles manager
 - [Redirector (by rxliuli)](https://rxliuli.com/project/redirector/) - redirect URLs 
 
-### Video streaming
+## Video streaming
 
-Video streaming apps:
+### Video streaming apps
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / scroll down for tools
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Frosty](https://www.frostyapp.io/) - Twitch client
@@ -50,7 +50,7 @@ Video streaming apps:
 - [Ucmate](https://play.google.com/store/apps/details?id=com.ucmate.app) – NewPipe clone / background playback / no downloading / has many its own features / YouTube / PeerTube / media.ccc.de / [warning](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#playtube-and-ucmate-note)
 - [PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube) – decentralized video platform / [Kodi](https://github.com/Haui1112/plugin.video.pt)
 
-Browser tools:
+### Browser tools
 - 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
 - [Invidious](https://invidious.io/) – YouTube frontend / [SponsorBlock](https://sponsor.ajay.app/) / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [DeArrow](https://dearrow.ajay.app/) (click Invidious button (second from left) in "3rd Party Ports" section) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
 - [UrleBird](https://urlebird.com/) - TikTok viewer
@@ -60,20 +60,20 @@ Browser tools:
 - [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / [Invidious]((https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious))
 - [media.ccc.de](https://media.ccc.de/)
 
-Utility apps:
+### Utility apps
 - [Ad Skipper by Mavenka Labs](https://play.google.com/store/apps/details?id=com.mavenkalabs.adskipper), [AdSkipper by Jaswanth Satya Dev](https://play.google.com/store/apps/details?id=com.evolvarc.adskipper) or [Skip Ad](https://play.google.com/store/apps/details?id=com.candlelight.adskipper) – automaticly press skip ad button
 - [Black screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) – play videos with screen turned off
 - [PocketTube](https://play.google.com/store/apps/details?id=com.youtubesubscriptionmanager) - YouTube subscribtion manager
 - [Return Dislike Button](https://play.google.com/store/apps/details?id=maa.returnytdislikebuttton) or [Show dislike](https://play.google.com/store/apps/details?id=com.topdealsindia.showdislike) – YouTube dislike count viewer
 
- TV tools:
+ ### TV tools
 - 🌐 [cast SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#Chromecast)
 - [iSponsorblockTv](https://github.com/dmunozv04/iSponsorBlockTV) – skip sponsors on connected Tvs
 - [SmartTV Client for Twitch](https://play.google.com/store/apps/details?id=com.fgl27.twitch), [2](https://github.com/fgl27/smarttwitchtv) or [S0undTV](https://play.google.com/store/apps/details?id=com.s0und.s0undtv), [2](https://github.com/S0und/S0undTV) - Twitch clients
 - [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
 - [Kodi](https://kodi.tv/download/android/) + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
 
-### Music
+## Music
 - 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
@@ -88,7 +88,7 @@ Utility apps:
 - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
 - [Ucmate](https://play.google.com/store/apps/details?id=com.ucmate.app) – NewPipe clone / background playback / no downloading / has many its own features / YouTube / Soundcloud / Bandcamp
 
-### Movie/TV streaming
+## Movie/TV streaming
 - 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or 🌐 [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
 - 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites / apps
 - 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
@@ -103,7 +103,7 @@ Utility apps:
 - [Viki](https://play.google.com/store/apps/details?id=com.viki.android) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) - Asian Drama
 - [DOCUMENTARY+](https://play.google.com/store/apps/details?id=com.docplus.android) or [ARTE](https://play.google.com/store/apps/details?id=tv.arte.plus7) - documentaries
 
-### Social media tools
+## Social media tools
 - 🌐 [Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - [Nora](https://github.com/nonbili/Nora) - multiple social platforms webview wrapper
@@ -116,7 +116,7 @@ Utility apps:
 - [Vencord web](https://vencord.dev/) - [Discord web](https://discord.com/app) client mod / warning
 - [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads / use [Stylus](https://add0n.com/stylus.html)
 
-### Copyright abuse reporting info
+## Copyright abuse reporting info
 We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
 
 ### Special thanks 
