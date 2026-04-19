@@ -41,7 +41,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 
 Video streaming apps:
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / scroll down for tools
-- GrayJay – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
+- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Frosty](https://www.frostyapp.io/) - Twitch client
 - [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
 - [RYTM](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
@@ -108,12 +108,13 @@ Utility apps:
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - [Nora](https://github.com/nonbili/Nora) - multiple social platforms webview wrapper
 - [LibRedirect](https://libredirect.github.io/) or [predirect](https://github.com/pritkr/predirect) - redirect to frontends
+- [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
+- [Toolkit for Instagram](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) - Instagram tools
 - [RedReader](https://github.com/QuantumBadger/RedReader) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#redreader), [Relay for reddit](https://play.google.com/store/apps/details?id=reddit.news) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%F0%9F%94%84-relay-for-reddit) or [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%E2%99%BE-infinity-for-reddit-or-continuum) - Reddit clients
 - [Sink It](https://gosinkit.com/) - Reddit browser extension
 - [oldlander](https://github.com/OctoNezd/oldlander) - make [old Reddit](https://old.reddit.com) usable on mobile / [redirect](https://github.com/tom-james-watson/old-reddit-redirect)
 - [Vencord web](https://vencord.dev/) - [Discord web](https://discord.com/app) client mod / warning
 - [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads / use [Stylus](https://add0n.com/stylus.html)
-- [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
 
 ### Copyright abuse reporting info
 We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
