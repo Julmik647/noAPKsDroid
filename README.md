@@ -41,7 +41,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 ## Videos
 
 ### Videos apps
-- 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / scroll down for tools
+- 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / [tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#browser-tools)
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Frosty](https://www.frostyapp.io/) - Twitch client
 - [RYTM](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
