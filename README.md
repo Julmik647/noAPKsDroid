@@ -33,7 +33,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) (YouTube without ads)
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / has paid features
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
-- [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [ZEUS Browser](https://www.zeus-browser.com/) or [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile assistant](https://browser-app.com/) - Android TV web browsers
+- [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [ZEUS Browser](https://www.zeus-browser.com/) or [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile remote](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [iOS](https://apps.apple.com/us/app/browser-with-tv-remote/id6670316885) - Android TV web browsers
 - [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
 - [Stylus](https://add0n.com/stylus.html) – userstyles manager
 - [Redirector (by rxliuli)](https://rxliuli.com/project/redirector/) - redirect URLs 
