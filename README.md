@@ -8,7 +8,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
 - [Social media tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#social-media-tools)
 - [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
-- [Movies and TV][(https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movietv-streaming)](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movies-and-tv)
+- [Movies and TV](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movies-and-tv)
 - [Copyright abuse reporting info](https://github.com/Julmik647/noAPKsDroid#copyright-abuse-reporting-info)
 - [Special thanks](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#special-thanks)
 
