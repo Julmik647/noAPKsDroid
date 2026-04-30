@@ -14,8 +14,8 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 
 ## Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
-- 🌐 [Ad blocking Browser extensions](https://fmhy.net/privacy)
--  [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
+- 🌐 [Ad blocking Browser extensions](https://fmhy.net/privacy#adblocking)
+-  [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), ⁠[DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 - [Blokada 6](https://play.google.com/store/apps/details?id=org.blokada.sex) - paid, cloud based ad blocker / with Blokada Plus you also get VPN
 - [Blokada Cloud](https://blokada.org/) / [panel](https://app.blokada.org/) - paid Blokada's DNS ad blocking service
 - [Wireguard](https://play.google.com/store/apps/details?id=com.wireguard.android) + [Blokada Plus](https://blokada.org/) / [panel](https://app.blokada.org/) - VPN and ad blocker
@@ -24,7 +24,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
 
 ## Web browsers
-- [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
+- 🔁 [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
 - [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
 - [Firefox](https://www.firefox.com/download/android/) – customizable browser / supports extensions
 - [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
@@ -57,7 +57,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [UrleBird](https://urlebird.com/) - TikTok viewer
 - [yout-ube.com](https://www.yout-ube.com/) - open YouTube links in youtube-nocookie.com
 - [Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) or [ImprovedTube](https://improvedtube.com/) - YouTube Enhancement Extensions
--  [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / userscript
+-  [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / [userscript](https://greasyfork.org/en/scripts/453320-simple-sponsor-skipper)
 - [DeArrow](https://dearrow.ajay.app/) – replace thumbnails and titles on YouTube 
 - [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / [Invidious]((https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious))
 - [UnTrap](https://untrap.app/) - remove distractions from YouTube
@@ -76,6 +76,8 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Aloha Browser](https://play.google.com/store/apps/details?id=com.aloha.browser) - video downloader / no YouTube / VPN note
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) or [1DM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - video download manager / no YouTube, Facebook and Instagram 
 - [9xbuddy](https://play.google.com/store/apps/details?id=com.xbuddymobile.app) - social media video downloading app / no YouTube / use [web version](https://fmhy.net/video-tools#video-download) for YouTube
+- [Quik](https://play.google.com/store/apps/details?id=me.vidura.vloader) - Facebook video downloader
+- [Redvid](https://redvid.io/), [RapidSave](https://rapidsave.com/) or commenting "/u/SaveVideo" - Reddit downloaders
 
  ### TV tools
 - 🌐 [cast SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#Chromecast)
@@ -85,10 +87,13 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Kodi](https://kodi.tv/download/android/) + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
 
 ## Social media tools
+- 🌐 [LibRedirect](https://libredirect.github.io/) or [FMHY](https://fmhy.net/social-media-tools#social-media-tools) - frontend indexes
 - 🌐 [Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
+- 🔁 [video downloaders](
 - [Nora](https://github.com/nonbili/Nora) - multiple social platforms webview wrapper
-- [LibRedirect](https://libredirect.github.io/) or [predirect](https://github.com/pritkr/predirect) - redirect to frontends
+- [LibRedirect](https://libredirect.github.io/), [predirect](https://github.com/pritkr/predirect) or [Proxy Reditect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect), [2](https://greasyfork.org/scripts/465936-proxy-redirect) - redirect to frontends
+- Offical lite versions: [Facebook](https://www.facebook.com/lite) / [Instagram](https://www.instagram.com/web/lite/) / [TikTok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go), [2](https://play.google.com/store/apps/details?id=com.tiktok.lite.go), [3](https://play.google.com/store/apps/details?id=com.ss.android.ugc.tiktok.lite) 
 - [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
 - [Toolkit for Instagram](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) - Instagram tools
 - [RedReader](https://github.com/QuantumBadger/RedReader) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#redreader), [Relay for reddit](https://play.google.com/store/apps/details?id=reddit.news) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%F0%9F%94%84-relay-for-reddit) or [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%E2%99%BE-infinity-for-reddit-or-continuum) - Reddit clients
