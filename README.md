@@ -55,6 +55,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
 - [Invidious](https://invidious.io/) – YouTube frontend / [SponsorBlock](https://sponsor.ajay.app/) / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [DeArrow](https://dearrow.ajay.app/) (click Invidious button (second from left) in "3rd Party Ports" section) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
 - [UrleBird](https://urlebird.com/) - TikTok viewer
+- [install YouTube as PWA](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#install-youtube-as-pwa)
 - [yout-ube.com](https://www.yout-ube.com/) - open YouTube links in youtube-nocookie.com
 - [Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) or [ImprovedTube](https://improvedtube.com/) - YouTube Enhancement Extensions
 -  [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / [userscript](https://greasyfork.org/en/scripts/453320-simple-sponsor-skipper)
@@ -73,7 +74,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🔁 [video apps with download functionality](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
 - [yoink](https://yoink.tools/), [YT1s](https://yt1s.com.co/), [YTDown](https://app.ytdown.to/ or [Yt5s](https://yt5s.rip/) - YouTube download websites
 - [savefrom.net](https://savefrom.net/), [CNVMP3](https://cnvmp3.com/) or [DL2MP3](https://dl2mp3.to/) - multi service download websites
-- [Aloha Browser](https://play.google.com/store/apps/details?id=com.aloha.browser) - video downloader / no YouTube / VPN note
+- [Aloha Browser](https://play.google.com/store/apps/details?id=com.aloha.browser) - video downloader / no YouTube / [VPN note](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#aloha-vpn-note)
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) or [1DM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - video download manager / no YouTube, Facebook and Instagram 
 - [9xbuddy](https://play.google.com/store/apps/details?id=com.xbuddymobile.app) - social media video downloading app / no YouTube / use [web version](https://fmhy.net/video-tools#video-download) for YouTube
 - [Quik](https://play.google.com/store/apps/details?id=me.vidura.vloader) - Facebook video downloader
