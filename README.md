@@ -122,10 +122,13 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🌐 [Media servers tools](https://fmhy.net/video-tools#media-servers)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) - torrent streaming / [guide](https://guides.viren070.me/stremio) / [tools](https://fmhy.net/video#stremio-tools) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot)
+- [Nuvio](https://nuvioapp.space/) - streaming app / [plugins](https://nuvio-plugin-library.vercel.app/)
 - [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
 - [VENUS.SH](https://venus.sh/) - movies and TV shows / needs [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) app
 - [iMPlayer](https://implayer.tv/) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
 - [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
+- [STMR](https://www.strmr.net/) - streaming app
+- [Debrid Stream](https://debridstream.com/) - streaming app / [addons](https://debridstream-addons.netlify.app/)
 - [Jellyfin](https://jellyfin.org/downloads/clients/all?platform=Android), [2](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android) / [TV / Kodi](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv) - media server client / [server](https://jellyfin.org/downloads/server) / [tools](https://fmhy.net/video-tools#jellyfin-tools)
 - [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android) / [web](https://app.plex.tv/) - media server client / [server](https://www.plex.tv/media-server-downloads/) / [tools](https://fmhy.net/video-tools#plex-tools)
 - [Emby](https://emby.media/emby-for-android.html) / [TV](https://emby.media/emby-for-android-tv.html) - media server client / [server](https://emby.media/download.html)
