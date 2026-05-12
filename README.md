@@ -131,6 +131,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
 - [VENUS.SH](https://venus.sh/) - movies and TV shows / needs [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) app
 - [iMPlayer](https://implayer.tv/) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
+- [Pluto TV](https://play.google.com/store/apps/details/?id=tv.pluto.android) (region locked) / [web](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv), [Xum Play](https://play.google.com/store/apps/details?id=com.xumo.xumo) (US only) / [web](https://play.xumo.com/networks) or [Xiaomi TV+](https://global.mitvplus.mi.com/) (Android TV only - live TV and sports
 - [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
 - [STMR](https://www.strmr.net/) - streaming app
 - [Debrid Stream](https://debridstream.com/) - streaming app / [third party addons](https://debridstream-addons.netlify.app/)
