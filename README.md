@@ -111,6 +111,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
 - [Lyra](https://lyramusic.app/) – YouTube music / ad free
+- [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads 
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - niche music
 - [Bandcamp](https://play.google.com/store/apps/details?id=com.bandcamp.android) / [web](https://bandcamp.com/) - buy music from artists
@@ -126,11 +127,11 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites / apps
 - 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🌐 [Media servers tools](https://fmhy.net/video-tools#media-servers)
-- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) - torrent streaming / [guide](https://guides.viren070.me/stremio) / [tools](https://fmhy.net/video#stremio-tools) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot)
+- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) - torrent streaming / [guides and tools](https://fmhy.net/video#stremio-tools) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot)
 - [Nuvio](https://nuvioapp.space/) - streaming app / [plugins](https://nuvio-plugin-library.vercel.app/)
 - [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
 - [VENUS.SH](https://venus.sh/) - movies and TV shows / needs [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) app
-- [iMPlayer](https://implayer.tv/) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
+- [iMPlayer](https://implayer.tv/) or [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) (Android TV only) / [buy premium](https://play.google.com/store/apps/details?id=ar.tvplayer.companion), [2](https://tivimate.com/) - IPTV players / [playlists / tools](https://fmhy.net/video#iptv-tools)
 - [Pluto TV](https://play.google.com/store/apps/details/?id=tv.pluto.android) (region locked) / [web](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv), [Xum Play](https://play.google.com/store/apps/details?id=com.xumo.xumo) (US only) / [web](https://play.xumo.com/networks) or [Xiaomi TV+](https://global.mitvplus.mi.com/) (Android TV only - live TV and sports
 - [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
 - [STMR](https://www.strmr.net/) - streaming app
