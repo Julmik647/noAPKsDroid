@@ -33,7 +33,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) (YouTube without ads)
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / has paid features
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
-- [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [ZEUS Browser](https://www.zeus-browser.com/) or [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile remote](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [iOS](https://apps.apple.com/us/app/browser-with-tv-remote/id6670316885) - Android TV web browsers
+- [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile remote](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [iOS](https://apps.apple.com/us/app/browser-with-tv-remote/id6670316885), [Indic Browser](https://play.google.com/store/apps/details?id=com.neew.browser),  [ZEUS Browser](https://www.zeus-browser.com/) or [Basic Web Browser](https://www.basicwebbrowser.app/) - Android TV web browsers
 - [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
 - [Stylus](https://add0n.com/stylus.html) – userstyles manager
 - [Redirector (by rxliuli)](https://rxliuli.com/project/redirector/) - redirect URLs 
@@ -42,7 +42,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 
 ### Videos apps
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / [tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#browser-tools)
-- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
+- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Frosty](https://www.frostyapp.io/) - Twitch client
 - [RYTM](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
 - [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
@@ -70,9 +70,9 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Return Dislike Button](https://play.google.com/store/apps/details?id=maa.returnytdislikebuttton) or [Show dislike](https://play.google.com/store/apps/details?id=com.topdealsindia.showdislike) – YouTube dislike count viewer
 
 ### Video downloading
-- 🌐 [FMHY video downloaders](https://fmhy.net/video-tools#video-download)
+- 🌐 [FMHY video downloaders](https://fmhy.net/video-tools#video-download) or 🌐 [MediaNest downloaders](https://rentry.co/medianest#pobieranie-materia%C5%82u-z-r%C3%B3%C5%BCnych-serwis%C3%B3w) - video downloading websites indexes
 - 🔁 [video apps with download functionality](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
-- [yoink](https://yoink.tools/), [YT1s](https://yt1s.com.co/), [YTDown](https://app.ytdown.to/ or [Yt5s](https://yt5s.rip/) - YouTube download websites
+- [yoink](https://yoink.tools/), [YT1s](https://yt1s.com.co/), [YTDown](https://app.ytdown.to/) or [Yt5s](https://yt5s.rip/) - YouTube download websites
 - [savefrom.net](https://savefrom.net/), [CNVMP3](https://cnvmp3.com/) or [DL2MP3](https://dl2mp3.to/) - multi service download websites
 - [Aloha Browser](https://play.google.com/store/apps/details?id=com.aloha.browser) - video downloader / no YouTube / [VPN note](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#aloha-vpn-note)
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) or [1DM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - video download manager / no YouTube, Facebook and Instagram 
@@ -91,7 +91,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🌐 [LibRedirect](https://libredirect.github.io/) or [FMHY](https://fmhy.net/social-media-tools#social-media-tools) - frontend indexes
 - 🌐 [Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
-- 🔁 [video downloaders](
+- 🔁 [video downloaders](https://github.com/Julmik647/noAPKsDroid/tree/main#video-downloading)
 - [Nora](https://github.com/nonbili/Nora) - multiple social platforms webview wrapper
 - [LibRedirect](https://libredirect.github.io/), [predirect](https://github.com/pritkr/predirect) or [Proxy Reditect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect), [2](https://greasyfork.org/scripts/465936-proxy-redirect) - redirect to frontends
 - Offical lite versions: [Facebook](https://www.facebook.com/lite) / [Instagram](https://www.instagram.com/web/lite/) / [TikTok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go), [2](https://play.google.com/store/apps/details?id=com.tiktok.lite.go), [3](https://play.google.com/store/apps/details?id=com.ss.android.ugc.tiktok.lite) 
@@ -106,14 +106,17 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 ## Music
 - 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
-- 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming)
+- 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming) / [downloaders](https://github.com/Julmik647/noAPKsDroid/tree/main#video-downloading)
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
 - [Lyra](https://lyramusic.app/) – YouTube music / ad free
-- GrayJay – no ads / multiple music platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
+- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - niche music
+- [Bandcamp](https://play.google.com/store/apps/details?id=com.bandcamp.android) / [web](https://bandcamp.com/) - buy music from artists
 - [Mutify](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/teekamsuthar/Mutify) – mute spotify ads
 - [Ad silence](https://github.com/aghontpi/ad-silence) – mute ads in music apps
+- [SQUID.WTF](https://squid.wtf/), [lucida](https://lucida.to/) or [DoubleDouble](https://doubledouble.top/) - multi-service music downloaders
+- [SpotiDownloader](https://spotidownloader.com/) - Spotify downloader
 - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
 - [Ucmate](https://play.google.com/store/apps/details?id=com.ucmate.app) – NewPipe clone / background playback / no downloading / has many its own features / YouTube / Soundcloud / Bandcamp
 
@@ -129,7 +132,8 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [iMPlayer](https://implayer.tv/) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
 - [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
 - [STMR](https://www.strmr.net/) - streaming app
-- [Debrid Stream](https://debridstream.com/) - streaming app / [addons](https://debridstream-addons.netlify.app/)
+- [Debrid Stream](https://debridstream.com/) - streaming app / [third party addons](https://debridstream-addons.netlify.app/)
+- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple movies and TV platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Jellyfin](https://jellyfin.org/downloads/clients/all?platform=Android), [2](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android) / [TV / Kodi](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv) - media server client / [server](https://jellyfin.org/downloads/server) / [tools](https://fmhy.net/video-tools#jellyfin-tools)
 - [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android) / [web](https://app.plex.tv/) - media server client / [server](https://www.plex.tv/media-server-downloads/) / [tools](https://fmhy.net/video-tools#plex-tools)
 - [Emby](https://emby.media/emby-for-android.html) / [TV](https://emby.media/emby-for-android-tv.html) - media server client / [server](https://emby.media/download.html)
