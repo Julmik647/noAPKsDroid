@@ -30,6 +30,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
 - [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports Firefox mobile and desktop extensions
 - [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) – Chromium-based / supports extensions / [install more extensions](https://www.reddit.com/r/MicrosoftEdge/comments/1pr8odr/finally_all_extensions_are_officially_available/)
+- [WebLibre](https://github.com/FaFre/WebLibre) - Early access / Gecko based (but not Firefox fork) / supports extensions / [documentation](docs.weblibre.eu/ )
 - [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) (YouTube without ads)
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / has paid features
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
@@ -97,10 +98,10 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - Offical lite versions: [Facebook](https://www.facebook.com/lite) / [Instagram](https://www.instagram.com/web/lite/) / [TikTok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go), [2](https://play.google.com/store/apps/details?id=com.tiktok.lite.go), [3](https://play.google.com/store/apps/details?id=com.ss.android.ugc.tiktok.lite) 
 - [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
 - [Toolkit for Instagram](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) - Instagram tools
-- [RedReader](https://github.com/QuantumBadger/RedReader) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#redreader), [Relay for reddit](https://play.google.com/store/apps/details?id=reddit.news) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%F0%9F%94%84-relay-for-reddit) or [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%E2%99%BE-infinity-for-reddit-or-continuum) - Reddit clients
-- [Sink It](https://gosinkit.com/) - Reddit browser extension
+- [RedReader](https://github.com/QuantumBadger/RedReader),/ [overview](https://dan.valeena.dev/guides/reddit-clients.html#redreader), [2](https://rentry.co/redditclients#redreader), [Relay for reddit](https://play.google.com/store/apps/details?id=reddit.news) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%F0%9F%94%84-relay-for-reddit), [2](https://rentry.co/redditclients#relay-for-reddit) or [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%E2%99%BE-infinity-for-reddit-or-continuum), [2](https://rentry.co/redditclients#infinity-for-reddit-or-continuum) - Reddit clients
+- [Sink It](https://gosinkit.com/) - Reddit enhancment browser extension
 - [oldlander](https://github.com/OctoNezd/oldlander) - make [old Reddit](https://old.reddit.com) usable on mobile / [redirect](https://github.com/tom-james-watson/old-reddit-redirect)
-- [Vencord web](https://vencord.dev/) - [Discord web](https://discord.com/app) client mod / warning
+- [Vencord web](https://vencord.dev/) - [Discord web](https://discord.com/app) client mod / [warning](https://fmhy.net/social-media-tools#discord-tools)
 - [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads / use [Stylus](https://add0n.com/stylus.html)
 
 ## Music
