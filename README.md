@@ -26,13 +26,13 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 ## Web browsers
 - 🔁 [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
 - [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
-- [Firefox](https://www.firefox.com/download/android/) – customizable browser / supports extensions
-- [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
-- [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports Firefox mobile and desktop extensions
-- [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) – Chromium-based / supports extensions / [install more extensions](https://www.reddit.com/r/MicrosoftEdge/comments/1pr8odr/finally_all_extensions_are_officially_available/)
+- [Mozilla Firefox](https://www.firefox.com/download/android/) or [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix) – customizable browser / supports extensions
+- [Firefox Focus/Klar] (https://www.firefox.com/browsers/mobile/focus/) - burner browser
+- [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports Firefox extensions
+- [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) or [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary) – Chromium-based / supports extensions / [install more extensions](https://www.reddit.com/r/MicrosoftEdge/comments/1pr8odr/finally_all_extensions_are_officially_available/)
 - [WebLibre](https://github.com/FaFre/WebLibre) - Early access / Gecko based (but not Firefox fork) / supports extensions / [documentation](docs.weblibre.eu/ )
 - [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) (YouTube without ads)
-- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / has paid features
+- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / [buy premium](https://hermit.chimbori.com/premium)
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
 - [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile remote](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [iOS](https://apps.apple.com/us/app/browser-with-tv-remote/id6670316885), [Indic Browser](https://play.google.com/store/apps/details?id=com.neew.browser),  [ZEUS Browser](https://www.zeus-browser.com/) or [Basic Web Browser](https://www.basicwebbrowser.app/) - Android TV web browsers
 - [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
@@ -49,7 +49,6 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
 - [Play Tube - Block Ads on Video (by revoook.studio)](https://play.google.com/store/apps/details?id=io.adsfree.vanced) - YouTube only / YouTube-like UI / downloading / uses NewPipe video player / has some banner ads, plays ads before downloading / [warning](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#playtube-and-ucmate-note)
 - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / PeerTube / media.ccc.de / [warning](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#playtube-and-ucmate-note)
-- [Ucmate](https://play.google.com/store/apps/details?id=com.ucmate.app) – NewPipe clone / background playback / no downloading / has many its own features / YouTube / PeerTube / media.ccc.de / [warning](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#playtube-and-ucmate-note)
 - [PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube) – decentralized video platform / [Kodi](https://github.com/Haui1112/plugin.video.pt)
 
 ### Browser tools
@@ -71,7 +70,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Return Dislike Button](https://play.google.com/store/apps/details?id=maa.returnytdislikebuttton) or [Show dislike](https://play.google.com/store/apps/details?id=com.topdealsindia.showdislike) – YouTube dislike count viewer
 
 ### Video downloading
-- 🌐 [FMHY video downloaders](https://fmhy.net/video-tools#video-download) or 🌐 [MediaNest downloaders](https://rentry.co/medianest#pobieranie-materia%C5%82u-z-r%C3%B3%C5%BCnych-serwis%C3%B3w) - video downloading websites indexes
+- 🌐 [FMHY](https://fmhy.net/video-tools#video-download) or [MediaNest](https://rentry.co/medianest#pobieranie-materia%C5%82u-z-r%C3%B3%C5%BCnych-serwis%C3%B3w) - video downloading websites indexes
 - 🔁 [video apps with download functionality](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
 - [yoink](https://yoink.tools/), [YT1s](https://yt1s.com.co/), [YTDown](https://app.ytdown.to/) or [Yt5s](https://yt5s.rip/) - YouTube download websites
 - [savefrom.net](https://savefrom.net/), [CNVMP3](https://cnvmp3.com/) or [DL2MP3](https://dl2mp3.to/) - multi service download websites
@@ -110,7 +109,6 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming) / [downloaders](https://github.com/Julmik647/noAPKsDroid/tree/main#video-downloading)
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
-- [Lyra](https://lyramusic.app/) – YouTube music / ad free
 - [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads 
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - niche music
@@ -120,10 +118,9 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [SQUID.WTF](https://squid.wtf/), [lucida](https://lucida.to/) or [DoubleDouble](https://doubledouble.top/) - multi-service music downloaders
 - [SpotiDownloader](https://spotidownloader.com/) - Spotify downloader
 - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
-- [Ucmate](https://play.google.com/store/apps/details?id=com.ucmate.app) – NewPipe clone / background playback / no downloading / has many its own features / YouTube / Soundcloud / Bandcamp
 
 ## Movies and TV
-- 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or 🌐 [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
+- 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
 - 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites / apps
 - 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🌐 [Media servers tools](https://fmhy.net/video-tools#media-servers)
@@ -131,7 +128,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Nuvio](https://nuvioapp.space/) - streaming app / [plugins](https://nuvio-plugin-library.vercel.app/)
 - [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
 - [VENUS.SH](https://venus.sh/) - movies and TV shows / needs [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) app
-- [iMPlayer](https://implayer.tv/) or [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) (Android TV only) / [buy premium](https://play.google.com/store/apps/details?id=ar.tvplayer.companion), [2](https://tivimate.com/) - IPTV players / [playlists / tools](https://fmhy.net/video#iptv-tools)
+- [iMPlayer](https://implayer.tv/) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
 - [Pluto TV](https://play.google.com/store/apps/details/?id=tv.pluto.android) (region locked) / [web](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv), [Xum Play](https://play.google.com/store/apps/details?id=com.xumo.xumo) (US only) / [web](https://play.xumo.com/networks) or [Xiaomi TV+](https://global.mitvplus.mi.com/) (Android TV only - live TV and sports
 - [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
 - [STMR](https://www.strmr.net/) - streaming app
@@ -140,8 +137,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Jellyfin](https://jellyfin.org/downloads/clients/all?platform=Android), [2](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android) / [TV / Kodi](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv) - media server client / [server](https://jellyfin.org/downloads/server) / [tools](https://fmhy.net/video-tools#jellyfin-tools)
 - [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android) / [web](https://app.plex.tv/) - media server client / [server](https://www.plex.tv/media-server-downloads/) / [tools](https://fmhy.net/video-tools#plex-tools)
 - [Emby](https://emby.media/emby-for-android.html) / [TV](https://emby.media/emby-for-android-tv.html) - media server client / [server](https://emby.media/download.html)
-- [Gir Society](https://discord.gg/WHxeZ3aTtb) - media server with movies, TV and anime
-- [Anime Rift](https://www.anime-rift.com/) - Anime app
+- [Gir Society](https://discord.gg/WHxeZ3aTtb) - media server with movies, TV and anime / use Plex or Jellyfin client
 - [Viki](https://play.google.com/store/apps/details?id=com.viki.android) / [web](https://www.viki.com/) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) - Asian Drama
 - [DOCUMENTARY+](https://play.google.com/store/apps/details?id=com.docplus.android) / [web](https://docplus.com/) or [ARTE](https://play.google.com/store/apps/details?id=tv.arte.plus7) / [web](https://www.arte.tv/) - documentaries
 
