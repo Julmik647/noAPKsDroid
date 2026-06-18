@@ -20,19 +20,19 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Blokada Cloud](https://blokada.org/) / [panel](https://app.blokada.org/) - paid Blokada's DNS ad blocking service
 - [Wireguard](https://play.google.com/store/apps/details?id=com.wireguard.android) + [Blokada Plus](https://blokada.org/) / [panel](https://app.blokada.org/) - VPN and ad blocker
 - [Adguard Content Blocker](https://github.com/AdguardTeam/ContentBlocker), [AdClear Content Blocker](https://play.google.com/store/apps/details?id=com.seven.adclear.fsb) or [Adblock Fast](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast) – Samsung Internet Ad Blockers
-- [Netguard](https://netguard.me/) - Firewall
+- [Netguard](https://netguard.me/) or [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) / Requires [Shizuku](https://shizuku.rikka.app/) - Firewalls
 - [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
 
 ## Web browsers
 - 🔁 [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
 - [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
 - [Mozilla Firefox](https://www.firefox.com/download/android/) or [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix) – customizable browser / supports extensions
-- [Firefox Focus/Klar] (https://www.firefox.com/browsers/mobile/focus/) - burner browser
+- [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
 - [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports Firefox extensions
 - [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) or [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary) – Chromium-based / supports extensions / [install more extensions](https://www.reddit.com/r/MicrosoftEdge/comments/1pr8odr/finally_all_extensions_are_officially_available/)
 - [WebLibre](https://github.com/FaFre/WebLibre) - Early access / Gecko based (but not Firefox fork) / supports extensions / [documentation](docs.weblibre.eu/ )
 - [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) (YouTube without ads)
-- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) – lite apps browser / [buy premium](https://hermit.chimbori.com/premium)
+- [NativeAlpha](https://github.com/cylonid/NativeAlphaForAndroid) or [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab / [buy premium](https://hermit.chimbori.com/premium)) – turn websites into apps 
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
 - [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile remote](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [iOS](https://apps.apple.com/us/app/browser-with-tv-remote/id6670316885), [Indic Browser](https://play.google.com/store/apps/details?id=com.neew.browser),  [ZEUS Browser](https://www.zeus-browser.com/) or [Basic Web Browser](https://www.basicwebbrowser.app/) - Android TV web browsers
 - [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
@@ -60,7 +60,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) or [ImprovedTube](https://improvedtube.com/) - YouTube Enhancement Extensions
 -  [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / [userscript](https://greasyfork.org/en/scripts/453320-simple-sponsor-skipper)
 - [DeArrow](https://dearrow.ajay.app/) – replace thumbnails and titles on YouTube 
-- [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / [Invidious]((https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious))
+- [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / [Invidious](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious)
 - [UnTrap](https://untrap.app/) - remove distractions from YouTube
 
 ### Utility apps
@@ -80,7 +80,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Quik](https://play.google.com/store/apps/details?id=me.vidura.vloader) - Facebook video downloader
 - [Redvid](https://redvid.io/), [RapidSave](https://rapidsave.com/) or commenting "/u/SaveVideo" - Reddit downloaders
 
- ### TV tools
+ ### Android TV
 - 🌐 [cast SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#Chromecast)
 - [iSponsorblockTv](https://github.com/dmunozv04/iSponsorBlockTV) – skip sponsors on connected Tvs
 - [SmartTV Client for Twitch](https://play.google.com/store/apps/details?id=com.fgl27.twitch), [2](https://github.com/fgl27/smarttwitchtv) or [S0undTV](https://play.google.com/store/apps/details?id=com.s0und.s0undtv), [2](https://github.com/S0und/S0undTV) - Twitch clients
@@ -127,8 +127,8 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) - torrent streaming / [guides and tools](https://fmhy.net/video#stremio-tools) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot)
 - [Nuvio](https://nuvioapp.space/) - streaming app / [plugins](https://nuvio-plugin-library.vercel.app/)
 - [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/)
-- [VENUS.SH](https://venus.sh/) - movies and TV shows / needs [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) app
-- [iMPlayer](https://implayer.tv/) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
+- [suuu.app](https://suuu.app/) - movies and TV shows / Requires [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) 
+- [iMPlayer](https://implayer.tv/) or [TiviMate](https://tivimate.com/) (Android TV only) / [buy premium](https://tivimate.com/), [2](https://play.google.com/store/apps/details?id=ar.tvplayer.companion) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
 - [Pluto TV](https://play.google.com/store/apps/details/?id=tv.pluto.android) (region locked) / [web](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv), [Xum Play](https://play.google.com/store/apps/details?id=com.xumo.xumo) (US only) / [web](https://play.xumo.com/networks) or [Xiaomi TV+](https://global.mitvplus.mi.com/) (Android TV only - live TV and sports
 - [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
 - [STMR](https://www.strmr.net/) - streaming app
