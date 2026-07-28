@@ -3,14 +3,14 @@
 This list is meant to be used in the worst scenario. It's NOT made to support upcoming Android changes. Visit [Keep Android Open](https://keepandroidopen.org/) for more information. 
 
 ## Table Of Contents
-- [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
-- [Web browsers](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
-- [Videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
-- [Social media tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#social-media-tools)
-- [Music](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#music)
-- [Movies and TV](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#movies-and-tv)
-- [Copyright abuse reporting info](https://github.com/Julmik647/noAPKsDroid#copyright-abuse-reporting-info)
-- [Special thanks](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#special-thanks)
+- [Ad and tracker blocking](ad-and-tracker-blocking)
+- [Web browsers](#web-browsers)
+- [Videos](#videos)
+- [Social media tools](#social-media-tools)
+- [Music](#music)
+- [Movies and TV](#movies-and-tv)
+- [Copyright abuse reporting info](#copyright-abuse-reporting-info)
+- [Special thanks](#special-thanks)
 
 ## Ad and tracker blocking
 - 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
