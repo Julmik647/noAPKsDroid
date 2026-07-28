@@ -3,17 +3,17 @@
 This list is meant to be used in the worst scenario. It's NOT made to support upcoming Android changes. Visit [Keep Android Open](https://keepandroidopen.org/) for more information. 
 
 ## Table Of Contents
-- [Ad and tracker blocking](ad-and-tracker-blocking)
-- [Web browsers](#web-browsers)
-- [Videos](#videos)
-- [Social media tools](#social-media-tools)
+- [Ad and tracker blocking](#adblock)
+- [Web browsers](#browsers)
+- [Videos](#video)
+- [Social media tools](#social)
 - [Music](#music)
-- [Movies and TV](#movies-and-tv)
-- [Copyright abuse reporting info](#copyright-abuse-reporting-info)
-- [Special thanks](#special-thanks)
+- [Movies and TV](#movies)
+- [Copyright abuse reporting info](#copyright)
+- [Special thanks](#thanks)
 
 ## Ad and tracker blocking
-- 🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
+- <a id="adblock"></a>🌐 [DNS Ad blocking](https://fmhy.net/privacy#dns-adblocking)
 - 🌐 [Ad blocking Browser extensions](https://fmhy.net/privacy#adblocking)
 -  [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), ⁠[DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://play.google.com/store/apps/details?id=dnsfilter.android), [2](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 - [Blokada 6](https://play.google.com/store/apps/details?id=org.blokada.sex) - paid, cloud based ad blocker / with Blokada Plus you also get VPN
@@ -24,7 +24,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
 
 ## Web browsers
-- 🔁 [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
+- <a id="browsers"></a> 🔁 [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
 - [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
 - [Mozilla Firefox](https://www.firefox.com/download/android/) or [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix) – customizable browser / supports extensions
 - [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
@@ -42,7 +42,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 ## Videos
 
 ### Videos apps
-- 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / [tools](https://github.com/Julmik647/noAPKsDroid/blob/main/README.md#browser-tools)
+- <a id="video"></a> 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers) / [tools](#video-br)
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple video platfroms / SponsorBlock / dislikes / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Frosty](https://www.frostyapp.io/) - Twitch client
 - [RYTM](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
@@ -52,7 +52,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube) – decentralized video platform / [Kodi](https://github.com/Haui1112/plugin.video.pt)
 
 ### Browser tools
-- 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
+- <a id="video-br"></a> 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
 - [Invidious](https://invidious.io/) – YouTube frontend / [SponsorBlock](https://sponsor.ajay.app/) / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [DeArrow](https://dearrow.ajay.app/) (click Invidious button (second from left) in "3rd Party Ports" section) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
 - [UrleBird](https://urlebird.com/) - TikTok viewer
 - [install YouTube as PWA](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#install-youtube-as-pwa)
@@ -70,7 +70,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Return Dislike Button](https://play.google.com/store/apps/details?id=maa.returnytdislikebuttton) or [Show dislike](https://play.google.com/store/apps/details?id=com.topdealsindia.showdislike) – YouTube dislike count viewer
 
 ### Video downloading
-- 🌐 [FMHY](https://fmhy.net/video-tools#video-download) or [MediaNest](https://rentry.co/medianest#pobieranie-materia%C5%82u-z-r%C3%B3%C5%BCnych-serwis%C3%B3w) - video downloading websites indexes
+- <a id="video-dl"></a> 🌐 [FMHY](https://fmhy.net/video-tools#video-download) or [MediaNest](https://rentry.co/medianest#pobieranie-materia%C5%82u-z-r%C3%B3%C5%BCnych-serwis%C3%B3w) - video downloading websites indexes
 - 🔁 [video apps with download functionality](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
 - [yoink](https://yoink.tools/), [YT1s](https://yt1s.com.co/), [YTDown](https://app.ytdown.to/) or [Yt5s](https://yt5s.rip/) - YouTube download websites
 - [savefrom.net](https://savefrom.net/), [CNVMP3](https://cnvmp3.com/) or [DL2MP3](https://dl2mp3.to/) - multi service download websites
@@ -88,7 +88,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Kodi](https://kodi.tv/download/android/) + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
 
 ## Social media tools
-- 🌐 [LibRedirect](https://libredirect.github.io/) or [FMHY](https://fmhy.net/social-media-tools#social-media-tools) - frontend indexes
+- <a id="social"></a> 🌐 [LibRedirect](https://libredirect.github.io/) or [FMHY](https://fmhy.net/social-media-tools#social-media-tools) - frontend indexes
 - 🌐 [Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🔁 [video downloaders](https://github.com/Julmik647/noAPKsDroid/tree/main#video-downloading)
@@ -104,14 +104,14 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads / use [Stylus](https://add0n.com/stylus.html)
 
 ## Music
-- 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
+- <a id="music"></a> 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
-- 🔁 [YouTube music / music videos](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#video-streaming) / [downloaders](https://github.com/Julmik647/noAPKsDroid/tree/main#video-downloading)
+- 🔁 [YouTube music / music videos](#video) / [downloaders](#video-dl)
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
 - [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/) – music website / no ads 
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
-- [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - niche music
+- [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - music app
 - [Bandcamp](https://play.google.com/store/apps/details?id=com.bandcamp.android) / [web](https://bandcamp.com/) - buy music from artists
 - [Mutify](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/teekamsuthar/Mutify) – mute spotify ads
 - [Ad silence](https://github.com/aghontpi/ad-silence) – mute ads in music apps
@@ -120,7 +120,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
 
 ## Movies and TV
-- 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
+- <a id="movies"></a> 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
 - 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites / apps
 - 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🌐 [Media servers tools](https://fmhy.net/video-tools#media-servers)
@@ -142,10 +142,10 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [DOCUMENTARY+](https://play.google.com/store/apps/details?id=com.docplus.android) / [web](https://docplus.com/) or [ARTE](https://play.google.com/store/apps/details?id=tv.arte.plus7) / [web](https://www.arte.tv/) - documentaries
 
 ## Copyright abuse reporting info
-We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
+<a id="copyright"></a> We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
 
 ### Special thanks 
-- all stuff listed here
+<a id="thanks"></a> - all stuff listed here
 - [FMHY](htttps://fmhy.net) - lot of stuff and editing style
 - random internet users that suggested me some of these tools
 - https://github.com/TeamNewPipe/NewPipe/issues/539 - some YouTube apps (ironic)
