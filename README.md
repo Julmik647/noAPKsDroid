@@ -19,24 +19,29 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Blokada 6](https://play.google.com/store/apps/details?id=org.blokada.sex) - paid, cloud based ad blocker / with Blokada Plus you also get VPN
 - [Blokada Cloud](https://blokada.org/) / [panel](https://app.blokada.org/) - paid Blokada's DNS ad blocking service
 - [Wireguard](https://play.google.com/store/apps/details?id=com.wireguard.android) + [Blokada Plus](https://blokada.org/) / [panel](https://app.blokada.org/) - VPN and ad blocker
-- [Adguard Content Blocker](https://github.com/AdguardTeam/ContentBlocker), [AdClear Content Blocker](https://play.google.com/store/apps/details?id=com.seven.adclear.fsb) or [Adblock Fast](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast) – Samsung Internet Ad Blockers
+- [Adguard Content Blocker](https://github.com/AdguardTeam/ContentBlocker), [Adblock Fast](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast) or [AdClear Content Blocker](https://play.google.com/store/apps/details?id=com.seven.adclear.fsb) – Samsung Internet Ad Blockers
 - [Netguard](https://netguard.me/) or [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) / Requires [Shizuku](https://shizuku.rikka.app/) - Firewalls
 - [DuckDuckGo Tracker blocker](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - block trackers in apps / [guide](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection)
 
 ## Web browsers
 - <a id="browsers"></a> 🔁 [Ad and tracker blocking](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#ad-and-tracker-blocking)
-- [Brave](https://brave.com/) – Chromium-based / privacy focused / has built-in ad blocker
+- [Brave](https://brave.com/) – Chromium-based / privacy focused / built-in ad blocker
 - [Mozilla Firefox](https://www.firefox.com/download/android/) or [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix) – customizable browser / supports extensions
 - [Firefox Focus/Klar](https://www.firefox.com/browsers/mobile/focus/) - burner browser
-- [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports Firefox extensions
-- [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) or [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary) – Chromium-based / supports extensions / [install more extensions](https://www.reddit.com/r/MicrosoftEdge/comments/1pr8odr/finally_all_extensions_are_officially_available/)
+- [Titanium browser](https://github.com/jqssun/android-titanium-browser) - Chromium-based / supports extensions 
+- [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release) – Firefox based / privacy focused / supports extensions
+- [Midori browser](https://github.com/goastian/midori-android) - Gecko-based / supports extensions
+- [Vivaldi](https://vivaldi.com/android) - Customizable browser / Chromium-based / built-in ad blocker / supports extensions 
+- [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) or [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary) – Chromium-based / supports extensions
+- [Fulguris](https://slions.net/resources/fulguris.10/) / [disable flip animation](https://github.com/Slion/Fulguris/issues/589#issuecomment-1872857690) or [Via Browser](https://viayoo.com/) - webview browsers / built-in ad blocker / userscript support
 - [WebLibre](https://github.com/FaFre/WebLibre) - Early access / Gecko based (but not Firefox fork) / supports extensions / [documentation](docs.weblibre.eu/ )
-- [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) (YouTube without ads)
-- [NativeAlpha](https://github.com/cylonid/NativeAlphaForAndroid) or [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab / [buy premium](https://hermit.chimbori.com/premium)) – turn websites into apps 
+- [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) / [YouTube ad blocker](https://duckduckgo.com/duckduckgo-help-pages/ad-blocking)
+- [NativeAlpha](https://github.com/cylonid/NativeAlphaForAndroid) or [Hermit](https://hermit.chimbori.com/) / [buy premium](https://hermit.chimbori.com/premium)) – turn websites into apps 
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
-- [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [Browser](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [mobile remote](https://play.google.com/store/apps/details?id=com.internet.tvbrowser) / [iOS](https://apps.apple.com/us/app/browser-with-tv-remote/id6670316885), [Indic Browser](https://play.google.com/store/apps/details?id=com.neew.browser),  [ZEUS Browser](https://www.zeus-browser.com/) or [Basic Web Browser](https://www.basicwebbrowser.app/) - Android TV web browsers
+- [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [Indic Browser](https://play.google.com/store/apps/details?id=com.neew.browser),  [ZEUS Browser](https://www.zeus-browser.com/) or [Basic Web Browser](https://www.basicwebbrowser.app/) - Android TV web browsers
 - [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
 - [Stylus](https://add0n.com/stylus.html) – userstyles manager
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - userscripts and userstyles manager
 - [Redirector (by rxliuli)](https://rxliuli.com/project/redirector/) - redirect URLs 
 
 ## Videos
@@ -47,21 +52,18 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Frosty](https://www.frostyapp.io/) - Twitch client
 - [RYTM](https://github.com/ctrlVnt/Real-YT-Music) – YouTube-only / no ads / background playback / you sometimes need to paste or share link from the offical YouTube app
 - [Kodi](https://kodi.tv/download/android/) + [YouTube plugin](https://github.com/anxdpanic/plugin.video.youtube) / needs personal API key / [SponsorBlock](https://github.com/siku2/script.service.sponsorblock)
-- [Play Tube - Block Ads on Video (by revoook.studio)](https://play.google.com/store/apps/details?id=io.adsfree.vanced) - YouTube only / YouTube-like UI / downloading / uses NewPipe video player / has some banner ads, plays ads before downloading / [warning](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#playtube-and-ucmate-note)
-- [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / PeerTube / media.ccc.de / [warning](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#playtube-and-ucmate-note)
 - [PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube) – decentralized video platform / [Kodi](https://github.com/Haui1112/plugin.video.pt)
 
 ### Browser tools
-- <a id="video-br"></a> 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
-- [Invidious](https://invidious.io/) – YouTube frontend / [SponsorBlock](https://sponsor.ajay.app/) / [dislikes counter](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious) / [DeArrow](https://dearrow.ajay.app/) (click Invidious button (second from left) in "3rd Party Ports" section) / [Redirector](https://libredirect.github.io/), [2](https://github.com/pritkr/predirect)
+- <a id="video-br"></a> 🌐 [LibRedirect](https://libredirect.manerakai.com/) - YouTube frontends index / [Redirector](https://libredirect.manerakai.com/), [2](https://github.com/pritkr/predirect), [3](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect), [4](https://greasyfork.org/scripts/465936-proxy-redirect)
+- 🌐 [TwitchAdSolutions (fork)](https://github.com/ryanbr/TwitchAdSolutions) - Twitch ad blockers
 - [UrleBird](https://urlebird.com/) - TikTok viewer
 - [install YouTube as PWA](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#install-youtube-as-pwa)
 - [yout-ube.com](https://www.yout-ube.com/) - open YouTube links in youtube-nocookie.com
-- [Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) or [ImprovedTube](https://improvedtube.com/) - YouTube Enhancement Extensions
--  [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / [userscript](https://greasyfork.org/en/scripts/453320-simple-sponsor-skipper)
+- [Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) - YouTube Enhancement Extension
+- [SponsorBlock](https://sponsor.ajay.app/) – browser extension that skips sponsored and other segment types on YouTube / [userscript](https://greasyfork.org/en/scripts/453320-simple-sponsor-skipper)
 - [DeArrow](https://dearrow.ajay.app/) – replace thumbnails and titles on YouTube 
 - [Return YouTube dislikes on mobile](https://greasyfork.org/en/scripts/473533-return-youtube-dislike-on-mobile), [2](https://github.com/Dwyriel/Greasyfork-Scripts/tree/main/ReturnYoutubeDislikeOnMobile) – bring back dislike counter to YouTube website / [Invidious](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious)
-- [UnTrap](https://untrap.app/) - remove distractions from YouTube
 
 ### Utility apps
 - [Ad Skipper by Mavenka Labs](https://play.google.com/store/apps/details?id=com.mavenkalabs.adskipper), [AdSkipper by Jaswanth Satya Dev](https://play.google.com/store/apps/details?id=com.evolvarc.adskipper) or [Skip Ad](https://play.google.com/store/apps/details?id=com.candlelight.adskipper) – automaticly press skip ad button
@@ -77,6 +79,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Aloha Browser](https://play.google.com/store/apps/details?id=com.aloha.browser) - video downloader / no YouTube / [VPN note](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#aloha-vpn-note)
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) or [1DM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - video download manager / no YouTube, Facebook and Instagram 
 - [9xbuddy](https://play.google.com/store/apps/details?id=com.xbuddymobile.app) - social media video downloading app / no YouTube / use [web version](https://fmhy.net/video-tools#video-download) for YouTube
+- [WebAura](https://creedmotions.store/apps/webaura/) - video downloader / supports YouTube
 - [Quik](https://play.google.com/store/apps/details?id=me.vidura.vloader) - Facebook video downloader
 - [Redvid](https://redvid.io/), [RapidSave](https://rapidsave.com/) or commenting "/u/SaveVideo" - Reddit downloaders
 
@@ -88,8 +91,8 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Kodi](https://kodi.tv/download/android/) + [PeerTube plugin](https://github.com/Haui1112/plugin.video.pt)
 
 ## Social media tools
-- <a id="social"></a> 🌐 [LibRedirect](https://libredirect.github.io/) or [FMHY](https://fmhy.net/social-media-tools#social-media-tools) - frontend indexes
-- 🌐 [Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools)
+- <a id="social"></a> 🌐 [LibRedirect](https://libredirect.manerakai.com/) or [FMHY](https://fmhy.net/social-media-tools#social-media-tools) - frontend indexes
+- 🌐 [Nitter instances](https://codeberg.org/mv12star/shitter/wiki/Instances), [2](https://status.d420.de/) or [FMHY Twitter frontends](https://fmhy.net/social-media-tools#twitter-x-tools) - Twitter frontends indexes
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🔁 [video downloaders](https://github.com/Julmik647/noAPKsDroid/tree/main#video-downloading)
 - [Nora](https://github.com/nonbili/Nora) - multiple social platforms webview wrapper
@@ -97,6 +100,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - Offical lite versions: [Facebook](https://www.facebook.com/lite) / [Instagram](https://www.instagram.com/web/lite/) / [TikTok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go), [2](https://play.google.com/store/apps/details?id=com.tiktok.lite.go), [3](https://play.google.com/store/apps/details?id=com.ss.android.ugc.tiktok.lite) 
 - [Kittygram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) or [Imginn](https://imginn.con/) - Instagram frontends
 - [Toolkit for Instagram](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) - Instagram tools
+- [Control Panel for Twitter](https://soitis.dev/control-panel-for-twitter) - Twitter Enhancement Extension
 - [RedReader](https://github.com/QuantumBadger/RedReader),/ [overview](https://dan.valeena.dev/guides/reddit-clients.html#redreader), [2](https://rentry.co/redditclients#redreader), [Relay for reddit](https://play.google.com/store/apps/details?id=reddit.news) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%F0%9F%94%84-relay-for-reddit), [2](https://rentry.co/redditclients#relay-for-reddit) or [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [overview](https://dan.valeena.dev/guides/reddit-clients.html#%E2%99%BE-infinity-for-reddit-or-continuum), [2](https://rentry.co/redditclients#infinity-for-reddit-or-continuum) - Reddit clients
 - [Sink It](https://gosinkit.com/) - Reddit enhancment browser extension
 - [oldlander](https://github.com/OctoNezd/oldlander) - make [old Reddit](https://old.reddit.com) usable on mobile / [redirect](https://github.com/tom-james-watson/old-reddit-redirect)
@@ -109,6 +113,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🔁 [YouTube music / music videos](#video) / [downloaders](#video-dl)
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
 - [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
+- [Lyra music](https://lyramusic.app/) - YouTube music / no ads
 - [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - music app
 - [Bandcamp](https://play.google.com/store/apps/details?id=com.bandcamp.android) / [web](https://bandcamp.com/) - buy music from artists
