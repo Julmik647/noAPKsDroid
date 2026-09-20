@@ -34,9 +34,9 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Vivaldi](https://vivaldi.com/android) - Customizable browser / Chromium-based / built-in ad blocker / supports extensions 
 - [Microsoft Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) or [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary) – Chromium-based / supports extensions
 - [Fulguris](https://slions.net/resources/fulguris.10/) / [disable flip animation](https://github.com/Slion/Fulguris/issues/589#issuecomment-1872857690) or [Via Browser](https://viayoo.com/) - webview browsers / built-in ad blocker / userscript support
-- [WebLibre](https://github.com/FaFre/WebLibre) - Early access / Gecko based (but not Firefox fork) / supports extensions / [documentation](docs.weblibre.eu/ )
+- [WebLibre](https://github.com/FaFre/WebLibre) - Early access / Gecko based (but not Firefox fork) / supports extensions / [documentation](docs.weblibre.eu/)
 - [DuckDuckGo browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - webview browser / [duck player](https://duckduckgo.com/duckduckgo-help-pages/duck-player) / [YouTube ad blocker](https://duckduckgo.com/duckduckgo-help-pages/ad-blocking)
-- [NativeAlpha](https://github.com/cylonid/NativeAlphaForAndroid) or [Hermit](https://hermit.chimbori.com/) / [buy premium](https://hermit.chimbori.com/premium)) – turn websites into apps 
+- [NativeAlpha](https://github.com/cylonid/NativeAlphaForAndroid) or [Hermit](https://hermit.chimbori.com/) / [buy premium](https://hermit.chimbori.com/premium) – turn websites into apps 
 - [Web Video Caster](https://www.webvideocaster.com/) - cast to TV / [Receivers](https://www.webvideocaster.com/receivers)
 - [TV Bro](https://github.com/truefedex/tv-bro), [BrowseHere](https://play.google.com/store/apps/details?id=com.tcl.browser), [Indic Browser](https://play.google.com/store/apps/details?id=com.neew.browser),  [ZEUS Browser](https://www.zeus-browser.com/) or [Basic Web Browser](https://www.basicwebbrowser.app/) - Android TV web browsers
 - [Violentmonkey](https://violentmonkey.github.io/) or [Scriptcat](https://scriptcat.org/) – userscript managers
@@ -110,38 +110,47 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 
 ## Music
 - <a id="music"></a> 🌐 [Music sites](https://fmhy.net/audio#streaming-sites)
+- 🌐 [Audio ripping sites](https://fmhy.net/audio#audio-ripping-sites) / [Telegram bots](https://fmhy.net/audio#telegram-bots)
 - 🔁 [browsers with ad blocker / extensions](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🔁 [YouTube music / music videos](#video) / [downloaders](#video-dl)
-- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android), [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) / [web](https://www.deezer.com/) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium music apps
-- [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal), [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) – paid music apps
+- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) / [web](https://open.spotify.com/) / [TV](https://play.google.com/store/apps/details?id=com.spotify.tv.android) or [YouTube music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) / [web](https://music.youtube.com/) – freemium streaming apps
+- [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - streaming app / [free tier availability](https://support.deezer.com/hc/en-gb/articles/115003749449-List-Of-Countries-Deezer-Is-Available-In), paid elsewhere / [free tier note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md) [web](https://www.deezer.com/)
+- [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal) - streaming / free tier only in US, paid elsewhere / [web](https://tidal.com)
+- [Quboz](https://play.google.com/store/apps/details?id=com.qobuz.music) / [web](https://www.qobuz.com/) or [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music) / [web](https://music.apple.com/) / [TV (unofficial)](https://play.google.com/store/apps/details?id=com.brkchen.music), [2](https://play.google.com/store/apps/details?id=com.adg.airtune&hl=pl) / [wearOS (unofficial)](https://play.google.com/store/apps/details?id=com.brkchen.wearmusic) / [automotive (unofficial)](https://play.google.com/store/apps/details?id=com.triefly.automusic) – paid streaming apps
 - [Lyra music](https://lyramusic.app/) - YouTube music / no ads
-- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
-- [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) / [web](https://soundcloud.com/) - music app
+- [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - streaming / [web](https://soundcloud.com/)
+- [Audiomack](https://play.google.com/store/apps/details?id=com.audiomack) - streaming / free offline playback / [web](https://audiomack.com/)
+- [Volta](https://volta-music.com/) - multi-platform streaming / Android app requires Firebase registation
+- [Spotify Mobile Enhancer](https://github.com/Slluxx/Spotify-Mobile-Enhancer/) - make Spotify desktop site usable on mobile / active "force desktop site" on Spotify website
+- [Trebel](https://home.trebel.io/) - streaming / downloader
 - [Bandcamp](https://play.google.com/store/apps/details?id=com.bandcamp.android) / [web](https://bandcamp.com/) - buy music from artists
-- [Mutify](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/teekamsuthar/Mutify) – mute spotify ads
+- [Rewind](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music discovery / time travel 
+- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple music platfroms / downloading / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
+- [Mutify](https://github.com/teekamsuthar/Mutify) – mute spotify ads
 - [Ad silence](https://github.com/aghontpi/ad-silence) – mute ads in music apps
-- [SpotiDownloader](https://spotidownloader.com/) - Spotify downloader
-- [Play Tube & Video Tube (by PlayTube – InterTune)](https://play.google.com/store/apps/details?id=com.mta.playtube.videotube.musictube) or [Play Tube (by MTA Inc.)](https://play.google.com/store/apps/details?id=com.mta.videotube.playtube)  – NewPipe clones / downloading / background playback / sometimes display ads at first launch or after clicking „download” button under video / YouTube / Soundcloud / Bandcamp
+- [Seeker](https://github.com/jackBonadies/SeekerAndroid) - Soulseek client
+- [SpotMate](https://spotmate.online/) - Spotify downloader
 
 ## Movies and TV
 - <a id="movies"></a> 🌐 [Alliance4Creativity](https://www.alliance4creativity.com/watch-legally/) or [Agorateka](https://agorateka.eu/) – paid and free streaming websites / apps
 - 🌐 [FMHY Free w/ Ads](https://fmhy.net/video#free-w-ads) - free streaming websites / apps
-- 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
+- 🌐 [FMHY streaming](https://fmhy.net/video) or [FMHY non-english](https://fmhy.net/non-english) – free streaming, downloading and torrenting websites / use [browser with ad blocker](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#web-browsers)
 - 🌐 [Media servers tools](https://fmhy.net/video-tools#media-servers)
-- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot)
-- [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/) or [STMR](https://www.strmr.net/) - torrent streaming / [guides and tools](https://fmhy.net/video#stremio-tools) 
+- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) / [Launch on Boot](https://play.google.com/store/apps/details?id=com.stremio.tv.boot) or [STMR](https://www.strmr.net/) - torrent streaming / [guides and tools](https://fmhy.net/video#stremio-tools) 
+- [Kodi](https://kodi.tv/download/android/) - streaming app / [tools](https://fmhy.net/video-tools#kodi-tools) / [offical wiki](https://kodi.wiki/) 
 - [suuu.app](https://suuu.app/) - movies and TV shows / Requires [Playlink](https://play.google.com/store/apps/details?id=com.playlink.mediaclient) 
 - [iMPlayer](https://implayer.tv/) or [TiviMate](https://tivimate.com/) (Android TV only) / [buy premium](https://tivimate.com/), [2](https://play.google.com/store/apps/details?id=ar.tvplayer.companion) - IPTV player / [playlists / tools](https://fmhy.net/video#iptv-tools)
-- [Pluto TV](https://play.google.com/store/apps/details/?id=tv.pluto.android) (region locked) / [web](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv), [Xum Play](https://play.google.com/store/apps/details?id=com.xumo.xumo) (US only) / [web](https://play.xumo.com/networks) or [Xiaomi TV+](https://global.mitvplus.mi.com/) (Android TV only - live TV and sports
-- [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons support
+- [Pluto TV](https://play.google.com/store/apps/details/?id=tv.pluto.android) (region locked) / [web](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv), [Xumo Play](https://play.google.com/store/apps/details?id=com.xumo.xumo) (US only) / [web](https://play.xumo.com/networks) or [Xiaomi TV+](https://global.mitvplus.mi.com/) (Android TV only) - live TV and sports
+- [ARVIO](https://arvio.tv/) - Android TV media hub / Stremio addons, IPTV and media server support
 - [Debrid Stream](https://debridstream.com/) - streaming app / [third party addons](https://debridstream-addons.netlify.app/)
-- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple movies and TV platfroms / downloading / avoid Play Store version when you still can / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
+- [GrayJay](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore) – no ads / multiple movies and TV platfroms / downloading / [Guide](https://www.youtube.com/watch?v=EnZrv37u66c), [2](https://odysee.com/@rossmanngroup:a/futo-desktop-grayjay-is-here:4) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [Receiver](https://fcast.org/)
 - [Jellyfin](https://jellyfin.org/downloads/clients/all?platform=Android), [2](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android) / [TV / Kodi](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv) - media server client / [server](https://jellyfin.org/downloads/server) / [tools](https://fmhy.net/video-tools#jellyfin-tools)
 - [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android) / [web](https://app.plex.tv/) - media server client / [server](https://www.plex.tv/media-server-downloads/) / [tools](https://fmhy.net/video-tools#plex-tools)
 - [Emby](https://emby.media/emby-for-android.html) / [TV](https://emby.media/emby-for-android-tv.html) - media server client / [server](https://emby.media/download.html)
 - [Gir Society](https://discord.gg/WHxeZ3aTtb) - media server with movies, TV and anime / use Plex or Jellyfin client
-- [Viki](https://play.google.com/store/apps/details?id=com.viki.android) / [web](https://www.viki.com/) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) - Asian Drama
+- [Viki](https://play.google.com/store/apps/details?id=com.viki.android) / [web](https://www.viki.com/) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) / [web receiver](https://alphasolutionteam.github.io/cast/) - Asian Drama
 - [DOCUMENTARY+](https://play.google.com/store/apps/details?id=com.docplus.android) / [web](https://docplus.com/) or [ARTE](https://play.google.com/store/apps/details?id=tv.arte.plus7) / [web](https://www.arte.tv/) - documentaries
+- [Old Movies Hollywood Classics](https://play.google.com/store/apps/details?id=com.acowboys.oldmovies) - public domain movies
 
 ## Copyright abuse reporting info
 <a id="copyright"></a> We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
