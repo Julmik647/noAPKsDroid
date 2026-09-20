@@ -76,6 +76,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - 🔁 [video apps with download functionality](https://github.com/Julmik647/noAPKsDroid?tab=readme-ov-file#videos)
 - [yoink](https://yoink.tools/), [YT1s](https://yt1s.com.co/), [YTDown](https://app.ytdown.to/) or [Yt5s](https://yt5s.rip/) - YouTube download websites
 - [savefrom.net](https://savefrom.net/), [CNVMP3](https://cnvmp3.com/) or [DL2MP3](https://dl2mp3.to/) - multi service download websites
+- [Video downloader - no ads](https://play.google.com/store/apps/details?id=com.gamma.videodownloader) - video downloader / no YouTube
 - [Aloha Browser](https://play.google.com/store/apps/details?id=com.aloha.browser) - video downloader / no YouTube / [VPN note](https://github.com/Julmik647/noAPKsDroid/blob/main/notes.md#aloha-vpn-note)
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) or [1DM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - video download manager / no YouTube, Facebook and Instagram 
 - [9xbuddy](https://play.google.com/store/apps/details?id=com.xbuddymobile.app) - social media video downloading app / no YouTube / use [web version](https://fmhy.net/video-tools#video-download) for YouTube
