@@ -9,6 +9,7 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Social media tools](#social)
 - [Music](#music)
 - [Movies and TV](#movies)
+- [.apk install solutions](#apk)
 - [Copyright abuse reporting info](#copyright)
 - [Special thanks](#thanks)
 
@@ -151,6 +152,11 @@ This list is meant to be used in the worst scenario. It's NOT made to support up
 - [Viki](https://play.google.com/store/apps/details?id=com.viki.android) / [web](https://www.viki.com/) or [aDrama](https://adrama.app/) / [receivers](https://aplayer.co/receivers) / [web receiver](https://alphasolutionteam.github.io/cast/) - Asian Drama
 - [DOCUMENTARY+](https://play.google.com/store/apps/details?id=com.docplus.android) / [web](https://docplus.com/) or [ARTE](https://play.google.com/store/apps/details?id=tv.arte.plus7) / [web](https://www.arte.tv/) - documentaries
 - [Old Movies Hollywood Classics](https://play.google.com/store/apps/details?id=com.acowboys.oldmovies) - public domain movies
+
+## .apk install solutions
+- <a id="apk"></a> 🌐 [FreeDroidWarn solutions](https://github.com/woheller69/FreeDroidWarn#solutions)
+- [Google's solution (scroll a little down)](https://keepandroidopen.org/)
+- [Family Link .apk install](https://discussions.unity.com/t/installing-apk-on-android-device-with-family-link/718871/4) / [video](https://www.youtube.com/watch?v=-14_0YXciUs) / requires parent's phone
 
 ## Copyright abuse reporting info
 <a id="copyright"></a> We do NOT host any content. We only redirect to external sources. In case you think that a link abused your copyright, report it to the website that hosts it. You can also report copyright abuse to oboe-calamity-cane@duck.com or Github issues and I will try to remove it from a list as fast as possible (but I need to verify your report first), but keep in mind that I can't remove it from the internet.
